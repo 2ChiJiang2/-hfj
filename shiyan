@@ -1,0 +1,7 @@
+print("hello,world!")
+a = 1
+while a < 10 :
+  print("3")
+  a = a + 1
+else print(2)  
+  
